@@ -8,4 +8,4 @@
 #### 目录排序结果会直接在res.txt中进行更新。
 ![image](https://user-images.githubusercontent.com/62537001/206825549-699c3387-5978-48c5-81dc-43e548177a1f.png)
 
-
+#### PS:代码有点乱，反正能用就行。
